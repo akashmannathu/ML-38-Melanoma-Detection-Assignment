@@ -1,4 +1,8 @@
 # ML-38-Melanoma-Detection-Assignment
+PLEASE NOTE THAT THE PROGRAM DID NOT RUN AT THE LAST STAGE DUE TECHNICAL ISSUE IN GOOGLE COLLAB
+
+
+
 **Problem Statement**
 
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
